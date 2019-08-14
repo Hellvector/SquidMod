@@ -1,0 +1,8 @@
+## Interface: 11302
+## Author: Edited by NewbieC4 [Ganders & Imithat (Original author: SAM)]
+## Title: SquidMod2 |cff01DFD7 Grafic Patch
+## Notes: The most useless UI-mod in history. Since it doesn't enhance functionality really. It just makes WoW prettier. Type /squid for a list of commands. (Modified by Ganders)
+## Version: 3.0
+## SavedVariablesPerCharacter: SquidModDB
+
+SquidMod.lua
